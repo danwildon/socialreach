@@ -1,0 +1,2330 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Futurio Extra\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-14 13:24+0200\n"
+"PO-Revision-Date: 2016-03-09 16:20+0200\n"
+"Last-Translator: \n"
+"Language-Team: FuturioWP <info@futurio.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;esc_html__;esc_html_e;esc_attr__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: inc/framework\n"
+"X-Poedit-SearchPathExcluded-1: inc/metabox\n"
+
+#: futurio-extra.php:133
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: futurio-extra.php:133
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: futurio-extra.php:135
+#, php-format
+msgid "Theme: %1$s"
+msgstr ""
+
+#: futurio-extra.php:327 inc/elementor/widgets/writing-effect-headline.php:119
+msgid "Off"
+msgstr ""
+
+#: futurio-extra.php:330
+msgid "Comment on "
+msgstr ""
+
+#: futurio-extra.php:449 inc/demo/classes/class-install-demos.php:30
+#: inc/demo/classes/class-install-demos.php:34
+msgid "Install Demos"
+msgstr ""
+
+#: futurio-extra.php:451
+msgid "Go Pro"
+msgstr ""
+
+#: inc/admin/dashboard.php:20 inc/demo/classes/class-install-demos.php:59
+msgid "Futurio Options"
+msgstr ""
+
+#: inc/admin/dashboard.php:124
+msgid "Back"
+msgstr ""
+
+#: inc/admin/dashboard.php:131
+msgid "Changelog"
+msgstr ""
+
+#: inc/admin/dashboard.php:146
+msgid "Logo & Site Identity"
+msgstr ""
+
+#: inc/admin/dashboard.php:150
+msgid "Colors & Typography"
+msgstr ""
+
+#: inc/admin/dashboard.php:154 inc/options/colors-typography-presets.php:14
+#: inc/options/colors-typography-presets.php:26
+msgid "Color presets"
+msgstr ""
+
+#: inc/admin/dashboard.php:158
+#: inc/options/colors-typography-footer-credits.php:14
+#: inc/options/footer-credits.php:14
+msgid "Footer credits"
+msgstr ""
+
+#: inc/admin/dashboard.php:162
+msgid "Global options"
+msgstr ""
+
+#: inc/admin/dashboard.php:166
+msgid "Top bar options"
+msgstr ""
+
+#: inc/admin/dashboard.php:170
+msgid "Main menu options"
+msgstr ""
+
+#: inc/admin/dashboard.php:174
+msgid "Posts and pages options"
+msgstr ""
+
+#: inc/admin/dashboard.php:178
+msgid "Sidebar options"
+msgstr ""
+
+#: inc/admin/dashboard.php:182
+msgid "Homepage Settings"
+msgstr ""
+
+#: inc/admin/dashboard.php:190
+msgid "Links to Customizer Settings"
+msgstr ""
+
+#: inc/admin/dashboard.php:210 inc/options/documentation.php:15
+msgid "Knowledge Base"
+msgstr ""
+
+#: inc/admin/dashboard.php:212 inc/options/documentation.php:16
+msgid "Not sure how something works? Take a peek at the knowledge base and learn."
+msgstr ""
+
+#: inc/admin/dashboard.php:213 inc/options/documentation.php:18
+msgid "Visit Knowledge Base"
+msgstr ""
+
+#: inc/admin/dashboard.php:226 inc/options/demo-import.php:15
+msgid "Futurio ready to import sites"
+msgstr ""
+
+#: inc/admin/dashboard.php:231 inc/options/demo-import.php:16
+msgid "Import your favorite site with one click and start your project in style!"
+msgstr ""
+
+#: inc/admin/dashboard.php:234 inc/options/demo-import.php:18
+msgid "See Library"
+msgstr ""
+
+#: inc/admin/dashboard.php:286 inc/demo/demos.php:1750
+msgid "Activate"
+msgstr ""
+
+#: inc/admin/dashboard.php:290 inc/demo/demos.php:1756
+msgid "Install Now"
+msgstr ""
+
+#: inc/admin/dashboard.php:318
+msgid "Details"
+msgstr ""
+
+#: inc/admin/dashboard.php:328
+msgid "Recommend Plugins"
+msgstr ""
+
+#: inc/admin/dashboard.php:355
+msgid "800+ Google fonts"
+msgstr ""
+
+#: inc/admin/dashboard.php:356
+msgid "Integrates more than 800 google fonts."
+msgstr ""
+
+#: inc/admin/dashboard.php:360
+msgid "Multiple color options"
+msgstr ""
+
+#: inc/admin/dashboard.php:361
+msgid "Allows you to easily change the color or background color of almost each and every element of your site."
+msgstr ""
+
+#: inc/admin/dashboard.php:365
+msgid "Ultimate Addons for Elementor"
+msgstr ""
+
+#: inc/admin/dashboard.php:366
+msgid "A library of unique Elementor Widgets included."
+msgstr ""
+
+#: inc/admin/dashboard.php:370
+msgid "Sticky sidebar"
+msgstr ""
+
+#: inc/admin/dashboard.php:371
+msgid "Make your sidebar permanently visible while scrolling."
+msgstr ""
+
+#: inc/admin/dashboard.php:375
+msgid "Scroll To Top"
+msgstr ""
+
+#: inc/admin/dashboard.php:376
+msgid "Get a better user experience with a scroll to top button with beautiful animation."
+msgstr ""
+
+#: inc/admin/dashboard.php:380
+msgid "Infinite scroll & ajax posts loading"
+msgstr ""
+
+#: inc/admin/dashboard.php:381
+msgid "Ajax loading loads the next set of post without page reloading."
+msgstr ""
+
+#: inc/admin/dashboard.php:385
+msgid "Custom content width"
+msgstr ""
+
+#: inc/admin/dashboard.php:386
+msgid "Allows you to set your maximum width of your website content."
+msgstr ""
+
+#: inc/admin/dashboard.php:390
+msgid "Fixed menu"
+msgstr ""
+
+#: inc/admin/dashboard.php:391
+msgid "Do not like the floating menu? Does not matter. You can unstick it and keep it fixed."
+msgstr ""
+
+#: inc/admin/dashboard.php:395
+msgid "Transparent menu"
+msgstr ""
+
+#: inc/admin/dashboard.php:396
+msgid "Make your menu transparent on posts or pages."
+msgstr ""
+
+#: inc/admin/dashboard.php:400 inc/admin/dashboard.php:453
+msgid "And much more..."
+msgstr ""
+
+#: inc/admin/dashboard.php:405
+msgid "WooCommerce Booster"
+msgstr ""
+
+#: inc/admin/dashboard.php:406
+msgid "Gives you creative control of style and layout options for your shop."
+msgstr ""
+
+#: inc/admin/dashboard.php:411
+msgid "Google fonts & custom colors"
+msgstr ""
+
+#: inc/admin/dashboard.php:412
+msgid "Integrates more than 800 google fonts and allows you change the color of almost each WooCommerce element."
+msgstr ""
+
+#: inc/admin/dashboard.php:417
+msgid "Quick View, Compare, Wishlist support"
+msgstr ""
+
+#: inc/admin/dashboard.php:418
+msgid "Integrated support for 3 major and popular WooCommerce extensions from Yith."
+msgstr ""
+
+#: inc/admin/dashboard.php:423
+msgid "Floating add to cart bar"
+msgstr ""
+
+#: inc/admin/dashboard.php:424
+msgid "The floating add to cart bar ensures that your add to cart button is always visible."
+msgstr ""
+
+#: inc/admin/dashboard.php:429
+msgid "Gallery images on shop pages"
+msgstr ""
+
+#: inc/admin/dashboard.php:430
+msgid "Show your customers additional images from the product gallery and increase the interest of your products."
+msgstr ""
+
+#: inc/admin/dashboard.php:435
+msgid "Popup cart"
+msgstr ""
+
+#: inc/admin/dashboard.php:436
+msgid "Auto open lightbox popup cart when click Add to cart button. "
+msgstr ""
+
+#: inc/admin/dashboard.php:441
+msgid "Single product ajax add to cart"
+msgstr ""
+
+#: inc/admin/dashboard.php:442
+msgid "Customers dont have to wait for the page to refresh on single product page. Product is added in the cart without page refresh."
+msgstr ""
+
+#: inc/admin/dashboard.php:447
+msgid "Image Flipper"
+msgstr ""
+
+#: inc/admin/dashboard.php:448
+msgid "Feature that adds a secondary product thumbnail on product archives that is displayed when you hover over the main product image"
+msgstr ""
+
+#: inc/admin/dashboard.php:462
+msgid "Futurio PRO addon"
+msgstr ""
+
+#: inc/admin/dashboard.php:463
+msgid "Upgrade Now &rarr;"
+msgstr ""
+
+#: inc/demo/classes/class-install-demos.php:57
+msgid "Thank you for using our theme. You can import our demo sites or set up the website from scratch."
+msgstr ""
+
+#: inc/demo/classes/class-install-demos.php:74
+msgid "All"
+msgstr ""
+
+#: inc/demo/classes/class-install-demos.php:81
+msgid "Search demos..."
+msgstr ""
+
+#: inc/demo/classes/class-install-demos.php:114
+msgid "PRO"
+msgstr ""
+
+#: inc/demo/classes/class-install-demos.php:129
+msgid "Live Preview"
+msgstr ""
+
+#: inc/demo/classes/importers/class-widget-importer.php:84
+msgid "Sidebar does not exist in theme (moving widget to Inactive)"
+msgstr ""
+
+#: inc/demo/classes/importers/class-widget-importer.php:106
+msgid "Site does not support widget"
+msgstr ""
+
+#: inc/demo/classes/importers/class-widget-importer.php:127
+msgid "Widget already exists"
+msgstr ""
+
+#: inc/demo/classes/importers/class-widget-importer.php:185
+msgid "Imported"
+msgstr ""
+
+#: inc/demo/classes/importers/class-widget-importer.php:189
+msgid "Imported to Inactive"
+msgstr ""
+
+#: inc/demo/classes/importers/class-widget-importer.php:195
+msgid "No Title"
+msgstr ""
+
+#: inc/demo/classes/importers/class-wp-import.php:107
+#: inc/demo/classes/importers/class-wp-import.php:116
+#: inc/demo/classes/importers/class-wp-import.php:167
+#: inc/demo/classes/importers/class-wp-import.php:171
+#: inc/demo/classes/importers/class-wp-import.php:180
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: inc/demo/classes/importers/class-wp-import.php:108
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: inc/demo/classes/importers/class-wp-import.php:151
+msgid "All done."
+msgstr ""
+
+#: inc/demo/classes/importers/class-wp-import.php:151
+msgid "Have fun!"
+msgstr ""
+
+#: inc/demo/classes/importers/class-wp-import.php:152
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: inc/demo/classes/importers/class-wp-import.php:172
+#, php-format
+msgid "The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr ""
+
+#: inc/demo/classes/importers/class-wp-import.php:188
+#, php-format
+msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr ""
+
+#: inc/demo/classes/importers/class-wp-import.php:213
+#, php-format
+msgid "Failed to import author %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: inc/demo/classes/importers/class-wp-import.php:241
+msgid "Assign Authors"
+msgstr ""
+
+#: inc/demo/classes/importers/class-wp-import.php:242
+msgid "To make it simpler for you to edit and save the imported content, you may want to reassign the author of the imported item to an existing user of this site, such as your primary administrator account."
+msgstr ""
+
+#: inc/demo/classes/importers/class-wp-import.php:244
+#, php-format
+msgid "If a new user is created by WordPress, a new password will be randomly generated and the new user&#8217;s role will be set as %s. Manually changing the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: inc/demo/classes/importers/class-wp-import.php:254
+msgid "Import Attachments"
+msgstr ""
+
+#: inc/demo/classes/importers/class-wp-import.php:257
+msgid "Download and import file attachments"
+msgstr ""
+
+#: inc/demo/classes/importers/class-wp-import.php:275
+msgid "Import author:"
+msgstr ""
+
+#: inc/demo/classes/importers/class-wp-import.php:290
+msgid "or create new user with login name:"
+msgstr ""
+
+#: inc/demo/classes/importers/class-wp-import.php:293
+msgid "as a new user:"
+msgstr ""
+
+#: inc/demo/classes/importers/class-wp-import.php:303
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: inc/demo/classes/importers/class-wp-import.php:305
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: inc/demo/classes/importers/class-wp-import.php:314
+msgid "- Select -"
+msgstr ""
+
+#: inc/demo/classes/importers/class-wp-import.php:373
+#, php-format
+msgid "Failed to create new user for %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: inc/demo/classes/importers/class-wp-import.php:432
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: inc/demo/classes/importers/class-wp-import.php:483
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: inc/demo/classes/importers/class-wp-import.php:544
+#: inc/demo/classes/importers/class-wp-import.php:792
+#, php-format
+msgid "Failed to import %1$s %2$s"
+msgstr ""
+
+#: inc/demo/classes/importers/class-wp-import.php:635
+#, php-format
+msgid "Failed to import &#8220;%1$s&#8221;: Invalid post type %2$s"
+msgstr ""
+
+#: inc/demo/classes/importers/class-wp-import.php:676
+#, php-format
+msgid "%1$s &#8220;%2$s&#8221; already exists."
+msgstr ""
+
+#: inc/demo/classes/importers/class-wp-import.php:753
+#, php-format
+msgid "Failed to import %1$s &#8220;%2$s&#8221;"
+msgstr ""
+
+#: inc/demo/classes/importers/class-wp-import.php:939
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: inc/demo/classes/importers/class-wp-import.php:946
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: inc/demo/classes/importers/class-wp-import.php:1013
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: inc/demo/classes/importers/class-wp-import.php:1031
+msgid "Invalid file type"
+msgstr ""
+
+#: inc/demo/classes/importers/class-wp-import.php:1075
+msgid "Could not create temporary file."
+msgstr ""
+
+#: inc/demo/classes/importers/class-wp-import.php:1097
+#, php-format
+msgid "Request failed due to an error: %1$s (%2$s)"
+msgstr ""
+
+#: inc/demo/classes/importers/class-wp-import.php:1113
+#, php-format
+msgid "Remote server returned the following unexpected result: %1$s (%2$s)"
+msgstr ""
+
+#: inc/demo/classes/importers/class-wp-import.php:1125
+msgid "Remote server did not respond"
+msgstr ""
+
+#: inc/demo/classes/importers/class-wp-import.php:1132
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: inc/demo/classes/importers/class-wp-import.php:1137
+msgid "Downloaded file has incorrect size"
+msgstr ""
+
+#: inc/demo/classes/importers/class-wp-import.php:1143
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: inc/demo/classes/importers/class-wp-import.php:1175
+msgid "Sorry, this file type is not permitted for security reasons."
+msgstr ""
+
+#: inc/demo/classes/importers/class-wp-import.php:1190
+msgid "The uploaded file could not be moved"
+msgstr ""
+
+#: inc/demo/classes/importers/class-wp-import.php:1312
+msgid "Import WordPress"
+msgstr ""
+
+#: inc/demo/classes/importers/class-wp-import.php:1319
+#, php-format
+msgid "A new version of this importer is available. Please update to version %s to ensure compatibility with newer export files."
+msgstr ""
+
+#: inc/demo/classes/importers/class-wp-import.php:1334
+msgid "Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import the posts, pages, comments, custom fields, categories, and tags into this site."
+msgstr ""
+
+#: inc/demo/classes/importers/class-wp-import.php:1335
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: inc/demo/classes/importers/parsers/class-wxr-parser-regex.php:102
+#: inc/demo/classes/importers/parsers/class-wxr-parser-simplexml.php:46
+#: inc/demo/classes/importers/parsers/class-wxr-parser-simplexml.php:52
+#: inc/demo/classes/importers/parsers/class-wxr-parser-xml.php:107
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: inc/demo/classes/importers/parsers/class-wxr-parser-simplexml.php:33
+#: inc/demo/classes/importers/parsers/class-wxr-parser-simplexml.php:41
+#: inc/demo/classes/importers/parsers/class-wxr-parser.php:45
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: inc/demo/classes/importers/parsers/class-wxr-parser.php:46
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr ""
+
+#: inc/demo/demos.php:105
+msgid "There was a problem during the importing process resulting in the following error from your server:"
+msgstr ""
+
+#: inc/demo/demos.php:106
+msgid "Activating"
+msgstr ""
+
+#: inc/demo/demos.php:107
+msgid "Active"
+msgstr ""
+
+#: inc/demo/demos.php:1600
+#, php-format
+msgid "Import the %1$s demo"
+msgstr ""
+
+#: inc/demo/demos.php:1607
+#, php-format
+msgid "Importing demo data allow you to quickly edit everything instead of creating content from scratch. It is recommended uploading sample data on a fresh WordPress install to prevent conflicts with your current content. You can use this plugin to reset your site if needed: %1$sWordpress Database Reset%2$s."
+msgstr ""
+
+#: inc/demo/demos.php:1614
+msgid "Required Plugins"
+msgstr ""
+
+#: inc/demo/demos.php:1615
+msgid "For your site to look exactly like this demo, the plugins below need to be activated."
+msgstr ""
+
+#: inc/demo/demos.php:1623
+msgid "Recommended Plugins"
+msgstr ""
+
+#: inc/demo/demos.php:1624
+msgid "These plugins are not required for the demo import. However, if you do not install them, some demo features will not be included."
+msgstr ""
+
+#: inc/demo/demos.php:1630
+msgid "Required Theme"
+msgstr ""
+
+#: inc/demo/demos.php:1631
+#, php-format
+msgid "This demo requires a different active theme. Theme %1$s will be activated after the import."
+msgstr ""
+
+#: inc/demo/demos.php:1643
+msgid "Install and activate Futurio PRO"
+msgstr ""
+
+#: inc/demo/demos.php:1649
+msgid "Activate Futurio PRO license"
+msgstr ""
+
+#: inc/demo/demos.php:1655
+msgid "Go to the next step"
+msgstr ""
+
+#: inc/demo/demos.php:1669
+msgid "Select what you want to import:"
+msgstr ""
+
+#: inc/demo/demos.php:1675
+msgid "Reset theme options"
+msgstr ""
+
+#: inc/demo/demos.php:1675
+msgid "Customizer options"
+msgstr ""
+
+#: inc/demo/demos.php:1681
+msgid "Import XML Data"
+msgstr ""
+
+#: inc/demo/demos.php:1681
+msgid "pages, posts, images, menus, etc..."
+msgstr ""
+
+#: inc/demo/demos.php:1688
+msgid "Import Customizer Settings"
+msgstr ""
+
+#: inc/demo/demos.php:1695
+msgid "Import Widgets"
+msgstr ""
+
+#: inc/demo/demos.php:1702
+msgid "Activate Required Theme"
+msgstr ""
+
+#: inc/demo/demos.php:1711
+msgid "Install this demo"
+msgstr ""
+
+#: inc/demo/demos.php:1716
+msgid "The import process could take some time, please be patient"
+msgstr ""
+
+#: inc/demo/demos.php:1722
+msgid "Demo Imported!"
+msgstr ""
+
+#: inc/demo/demos.php:1723
+msgid "See the result"
+msgstr ""
+
+#: inc/demo/demos.php:1761
+msgid "Activated"
+msgstr ""
+
+#: inc/demo/demos.php:1772
+msgid "Get This Addon"
+msgstr ""
+
+#: inc/demo/demos.php:1874
+msgid "No plugin specified"
+msgstr ""
+
+#: inc/demo/demos.php:1894
+msgid "Plugin Successfully Activated"
+msgstr ""
+
+#: inc/demo/demos.php:1913
+msgid "Activating Required Theme"
+msgstr ""
+
+#: inc/demo/demos.php:1919
+msgid "Reseting Theme Options"
+msgstr ""
+
+#: inc/demo/demos.php:1925
+msgid "Importing XML Data"
+msgstr ""
+
+#: inc/demo/demos.php:1931
+msgid "Importing Customizer Settings"
+msgstr ""
+
+#: inc/demo/demos.php:1937
+msgid "Importing Widgets"
+msgstr ""
+
+#: inc/demo/demos.php:2260
+msgid "Can not retrieve sample data xml file. Website may be down at the momment please try again later. If you still have issues contact the theme developer for assistance."
+msgstr ""
+
+#: inc/demo/demos.php:2275
+msgid "The xml import file could not be accessed. Please try again or contact the theme developer."
+msgstr ""
+
+#: inc/demo/demos.php:2311
+msgid "Can not retrieve class-wp-importer.php"
+msgstr ""
+
+#: inc/demo/demos.php:2321
+msgid "Can not retrieve wordpress-importer.php"
+msgstr ""
+
+#: inc/demo/demos.php:2332
+msgid "Sample data file appears corrupt or can not be accessed."
+msgstr ""
+
+#: inc/demo/futurio-demos.php:120 inc/demo/futurio-demos.php:129
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: inc/elementor/shortcode.php:26
+msgid "Shortcode"
+msgstr ""
+
+#: inc/elementor/widgets.php:125 inc/options/woocommerce.php:116
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/elementor/widgets.php:132
+msgid "Blog Archive Layout"
+msgstr ""
+
+#: inc/elementor/widgets/advanced-text-block.php:19
+#: inc/elementor/widgets/advanced-text-block.php:41
+msgid "Advanced Text Block"
+msgstr ""
+
+#: inc/elementor/widgets/advanced-text-block.php:49
+msgid "I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+msgstr ""
+
+#: inc/elementor/widgets/advanced-text-block.php:50
+msgid "Type your description here"
+msgstr ""
+
+#: inc/elementor/widgets/advanced-text-block.php:56
+#: inc/elementor/widgets/writing-effect-headline.php:156
+msgid "HTML Tag"
+msgstr ""
+
+#: inc/elementor/widgets/advanced-text-block.php:75
+#: inc/elementor/widgets/blog-feed-author.php:179
+#: inc/elementor/widgets/blog-feed-categories.php:175
+#: inc/elementor/widgets/blog-feed-comments.php:175
+#: inc/elementor/widgets/blog-feed-content.php:142
+#: inc/elementor/widgets/blog-feed-date.php:178
+#: inc/elementor/widgets/blog-feed-image.php:138
+#: inc/elementor/widgets/blog-feed-read-more.php:152
+#: inc/elementor/widgets/blog-feed-tags.php:175
+#: inc/elementor/widgets/blog-feed-title.php:101
+#: inc/elementor/widgets/woo-header-cart.php:71
+#: inc/elementor/widgets/writing-effect-headline.php:128
+msgid "Alignment"
+msgstr ""
+
+#: inc/elementor/widgets/advanced-text-block.php:79
+#: inc/elementor/widgets/blog-feed-author.php:184
+#: inc/elementor/widgets/blog-feed-categories.php:179
+#: inc/elementor/widgets/blog-feed-comments.php:179
+#: inc/elementor/widgets/blog-feed-content.php:146
+#: inc/elementor/widgets/blog-feed-date.php:182
+#: inc/elementor/widgets/blog-feed-image.php:142
+#: inc/elementor/widgets/blog-feed-read-more.php:156
+#: inc/elementor/widgets/blog-feed-tags.php:179
+#: inc/elementor/widgets/blog-feed-title.php:105
+#: inc/elementor/widgets/woo-header-cart.php:76
+#: inc/elementor/widgets/writing-effect-headline.php:133
+#: inc/options/sidebar.php:20
+msgid "Left"
+msgstr ""
+
+#: inc/elementor/widgets/advanced-text-block.php:83
+#: inc/elementor/widgets/blog-feed-author.php:188
+#: inc/elementor/widgets/blog-feed-categories.php:183
+#: inc/elementor/widgets/blog-feed-comments.php:183
+#: inc/elementor/widgets/blog-feed-content.php:150
+#: inc/elementor/widgets/blog-feed-date.php:186
+#: inc/elementor/widgets/blog-feed-image.php:146
+#: inc/elementor/widgets/blog-feed-read-more.php:160
+#: inc/elementor/widgets/blog-feed-tags.php:183
+#: inc/elementor/widgets/blog-feed-title.php:109
+#: inc/elementor/widgets/woo-header-cart.php:80
+#: inc/elementor/widgets/writing-effect-headline.php:137
+msgid "Center"
+msgstr ""
+
+#: inc/elementor/widgets/advanced-text-block.php:87
+#: inc/elementor/widgets/blog-feed-author.php:192
+#: inc/elementor/widgets/blog-feed-categories.php:187
+#: inc/elementor/widgets/blog-feed-comments.php:187
+#: inc/elementor/widgets/blog-feed-content.php:154
+#: inc/elementor/widgets/blog-feed-date.php:190
+#: inc/elementor/widgets/blog-feed-image.php:150
+#: inc/elementor/widgets/blog-feed-read-more.php:164
+#: inc/elementor/widgets/blog-feed-tags.php:187
+#: inc/elementor/widgets/blog-feed-title.php:113
+#: inc/elementor/widgets/woo-header-cart.php:84
+#: inc/elementor/widgets/writing-effect-headline.php:141
+#: inc/options/sidebar.php:21
+msgid "Right"
+msgstr ""
+
+#: inc/elementor/widgets/advanced-text-block.php:91
+msgid "Justify"
+msgstr ""
+
+#: inc/elementor/widgets/advanced-text-block.php:104
+#: inc/elementor/widgets/advanced-text-block.php:123
+msgid "Typography"
+msgstr ""
+
+#: inc/elementor/widgets/advanced-text-block.php:111
+#: inc/elementor/widgets/blog-feed-author.php:256
+#: inc/elementor/widgets/blog-feed-categories.php:221
+#: inc/elementor/widgets/blog-feed-comments.php:219
+#: inc/elementor/widgets/blog-feed-content.php:171
+#: inc/elementor/widgets/blog-feed-date.php:204
+#: inc/elementor/widgets/blog-feed-read-more.php:274
+#: inc/elementor/widgets/blog-feed-read-more.php:306
+#: inc/elementor/widgets/blog-feed-tags.php:219
+#: inc/elementor/widgets/writing-effect-headline.php:186
+#: inc/elementor/widgets/writing-effect-headline.php:214
+msgid "Text Color"
+msgstr ""
+
+#: inc/elementor/widgets/advanced-text-block.php:134
+msgid "On Scroll View Animation"
+msgstr ""
+
+#: inc/elementor/widgets/advanced-text-block.php:141
+msgid "Choose Animation Effect"
+msgstr ""
+
+#: inc/elementor/widgets/advanced-text-block.php:151
+msgid "Animation Delay"
+msgstr ""
+
+#: inc/elementor/widgets/advanced-text-block.php:172
+msgid "Animation Duration"
+msgstr ""
+
+#: inc/elementor/widgets/advanced-text-block.php:184
+msgid "Duration Speed"
+msgstr ""
+
+#: inc/elementor/widgets/advanced-text-block.php:208
+msgid "No-animation"
+msgstr ""
+
+#: inc/elementor/widgets/advanced-text-block.php:209
+msgid "FadeIn"
+msgstr ""
+
+#: inc/elementor/widgets/advanced-text-block.php:210
+msgid "FlipXIn"
+msgstr ""
+
+#: inc/elementor/widgets/advanced-text-block.php:211
+msgid "FlipYIn"
+msgstr ""
+
+#: inc/elementor/widgets/advanced-text-block.php:212
+msgid "FlipBounceXIn"
+msgstr ""
+
+#: inc/elementor/widgets/advanced-text-block.php:213
+msgid "FlipBounceYIn"
+msgstr ""
+
+#: inc/elementor/widgets/advanced-text-block.php:214
+msgid "SwoopIn"
+msgstr ""
+
+#: inc/elementor/widgets/advanced-text-block.php:215
+msgid "WhirlIn"
+msgstr ""
+
+#: inc/elementor/widgets/advanced-text-block.php:216
+msgid "ShrinkIn"
+msgstr ""
+
+#: inc/elementor/widgets/advanced-text-block.php:217
+msgid "ExpandIn"
+msgstr ""
+
+#: inc/elementor/widgets/advanced-text-block.php:218
+msgid "BounceIn"
+msgstr ""
+
+#: inc/elementor/widgets/advanced-text-block.php:219
+msgid "BounceUpIn"
+msgstr ""
+
+#: inc/elementor/widgets/advanced-text-block.php:220
+msgid "BounceDownIn"
+msgstr ""
+
+#: inc/elementor/widgets/advanced-text-block.php:221
+msgid "BounceLeftIn"
+msgstr ""
+
+#: inc/elementor/widgets/advanced-text-block.php:222
+msgid "BounceRightIn"
+msgstr ""
+
+#: inc/elementor/widgets/advanced-text-block.php:223
+msgid "SlideUpIn"
+msgstr ""
+
+#: inc/elementor/widgets/advanced-text-block.php:224
+msgid "SlideDownIn"
+msgstr ""
+
+#: inc/elementor/widgets/advanced-text-block.php:225
+msgid "SlideLeftIn"
+msgstr ""
+
+#: inc/elementor/widgets/advanced-text-block.php:226
+msgid "SlideRightIn"
+msgstr ""
+
+#: inc/elementor/widgets/advanced-text-block.php:227
+msgid "SlideUpBigIn"
+msgstr ""
+
+#: inc/elementor/widgets/advanced-text-block.php:228
+msgid "SlideDownBigIn"
+msgstr ""
+
+#: inc/elementor/widgets/advanced-text-block.php:229
+msgid "SlideLeftBigIn"
+msgstr ""
+
+#: inc/elementor/widgets/advanced-text-block.php:230
+msgid "SlideRightBigIn"
+msgstr ""
+
+#: inc/elementor/widgets/advanced-text-block.php:231
+msgid "PerspectiveUpIn"
+msgstr ""
+
+#: inc/elementor/widgets/advanced-text-block.php:232
+msgid "PerspectiveDownIn"
+msgstr ""
+
+#: inc/elementor/widgets/advanced-text-block.php:233
+msgid "PerspectiveLeftIn"
+msgstr ""
+
+#: inc/elementor/widgets/advanced-text-block.php:234
+msgid "PerspectiveRightIn"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-author.php:46
+msgid "Post author"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-author.php:91
+#: inc/elementor/widgets/blog-feed-author.php:171
+#: inc/elementor/widgets/blog-feed-categories.php:93
+#: inc/elementor/widgets/blog-feed-categories.php:167
+#: inc/elementor/widgets/blog-feed-comments.php:93
+#: inc/elementor/widgets/blog-feed-comments.php:167
+#: inc/elementor/widgets/blog-feed-content.php:46
+#: inc/elementor/widgets/blog-feed-content.php:91
+#: inc/elementor/widgets/blog-feed-content.php:98
+#: inc/elementor/widgets/blog-feed-content.php:134
+#: inc/elementor/widgets/blog-feed-date.php:91
+#: inc/elementor/widgets/blog-feed-date.php:170
+#: inc/elementor/widgets/blog-feed-tags.php:93
+#: inc/elementor/widgets/blog-feed-tags.php:167
+#: inc/options/colors-typography-posts-pages.php:70
+#: inc/options/colors-typography-posts-pages.php:126
+#: inc/options/colors-typography-posts-pages.php:179
+#: inc/options/colors-typography.php:13
+msgid "Content"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-author.php:97
+#: inc/elementor/widgets/blog-feed-categories.php:108
+#: inc/elementor/widgets/blog-feed-comments.php:100
+#: inc/elementor/widgets/blog-feed-date.php:97
+#: inc/elementor/widgets/blog-feed-tags.php:108
+msgid "Text before"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-author.php:99
+#: inc/elementor/widgets/blog-feed-author.php:100
+msgid "Author:"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-author.php:106
+#: inc/elementor/widgets/blog-feed-date.php:106
+msgid "Text Spacing"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-author.php:121
+#: inc/elementor/widgets/blog-feed-categories.php:117
+#: inc/elementor/widgets/blog-feed-comments.php:117
+#: inc/elementor/widgets/blog-feed-date.php:121
+#: inc/elementor/widgets/blog-feed-read-more.php:191
+#: inc/elementor/widgets/blog-feed-tags.php:117
+msgid "Icon"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-author.php:132
+#: inc/elementor/widgets/blog-feed-categories.php:128
+#: inc/elementor/widgets/blog-feed-comments.php:128
+#: inc/elementor/widgets/blog-feed-date.php:132
+#: inc/elementor/widgets/blog-feed-read-more.php:201
+#: inc/elementor/widgets/blog-feed-tags.php:128
+msgid "Icon Position"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-author.php:136
+#: inc/elementor/widgets/blog-feed-categories.php:132
+#: inc/elementor/widgets/blog-feed-comments.php:132
+#: inc/elementor/widgets/blog-feed-date.php:136
+#: inc/elementor/widgets/blog-feed-read-more.php:205
+#: inc/elementor/widgets/blog-feed-tags.php:132
+msgid "Before"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-author.php:137
+#: inc/elementor/widgets/blog-feed-categories.php:133
+#: inc/elementor/widgets/blog-feed-comments.php:133
+#: inc/elementor/widgets/blog-feed-date.php:137
+#: inc/elementor/widgets/blog-feed-read-more.php:206
+#: inc/elementor/widgets/blog-feed-tags.php:133
+msgid "After"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-author.php:148
+#: inc/elementor/widgets/blog-feed-categories.php:144
+#: inc/elementor/widgets/blog-feed-comments.php:144
+#: inc/elementor/widgets/blog-feed-date.php:148
+#: inc/elementor/widgets/blog-feed-read-more.php:217
+#: inc/elementor/widgets/blog-feed-tags.php:144
+msgid "Icon Spacing"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-author.php:213
+#: inc/elementor/widgets/blog-feed-categories.php:307
+#: inc/elementor/widgets/blog-feed-comments.php:305
+#: inc/elementor/widgets/blog-feed-content.php:192
+#: inc/elementor/widgets/blog-feed-image.php:247
+#: inc/elementor/widgets/blog-feed-read-more.php:267
+#: inc/elementor/widgets/blog-feed-tags.php:305
+#: inc/elementor/widgets/blog-feed-title.php:141
+msgid "Normal"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-author.php:220
+#: inc/elementor/widgets/blog-feed-author.php:240
+msgid "Author Color"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-author.php:233
+#: inc/elementor/widgets/blog-feed-categories.php:327
+#: inc/elementor/widgets/blog-feed-comments.php:325
+#: inc/elementor/widgets/blog-feed-content.php:212
+#: inc/elementor/widgets/blog-feed-image.php:281
+#: inc/elementor/widgets/blog-feed-read-more.php:299
+#: inc/elementor/widgets/blog-feed-tags.php:325
+#: inc/elementor/widgets/blog-feed-title.php:161
+msgid "Hover"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-categories.php:48
+msgid "Post categories"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-categories.php:100
+#: inc/elementor/widgets/blog-feed-tags.php:100
+msgid "Separator"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-categories.php:110
+#: inc/elementor/widgets/blog-feed-categories.php:111
+msgid "Categories:"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-categories.php:204
+#: inc/elementor/widgets/blog-feed-comments.php:202
+#: inc/elementor/widgets/blog-feed-read-more.php:138
+#: inc/elementor/widgets/blog-feed-tags.php:202 inc/options/menu-icons.php:182
+#: inc/options/menu-icons.php:224
+msgid "Text"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-categories.php:242
+#: inc/elementor/widgets/blog-feed-categories.php:371
+#: inc/elementor/widgets/blog-feed-comments.php:240
+#: inc/elementor/widgets/blog-feed-comments.php:358
+#: inc/elementor/widgets/blog-feed-image.php:352
+#: inc/elementor/widgets/blog-feed-read-more.php:357
+#: inc/elementor/widgets/blog-feed-tags.php:240
+#: inc/elementor/widgets/blog-feed-tags.php:369 inc/widgets/social.php:418
+msgid "Border Radius"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-categories.php:262
+#: inc/elementor/widgets/blog-feed-categories.php:391
+#: inc/elementor/widgets/blog-feed-comments.php:260
+#: inc/elementor/widgets/blog-feed-comments.php:378
+#: inc/elementor/widgets/blog-feed-read-more.php:377
+#: inc/elementor/widgets/blog-feed-tags.php:260
+#: inc/elementor/widgets/blog-feed-tags.php:389
+msgid "Padding"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-categories.php:275
+#: inc/elementor/widgets/blog-feed-categories.php:404
+#: inc/elementor/widgets/blog-feed-comments.php:273
+#: inc/elementor/widgets/blog-feed-comments.php:391
+#: inc/elementor/widgets/blog-feed-tags.php:273
+#: inc/elementor/widgets/blog-feed-tags.php:402
+msgid "Margin"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-categories.php:289
+#: inc/elementor/widgets/posts-carousel.php:120 inc/options/woocommerce.php:416
+msgid "Categories"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-categories.php:314
+#: inc/elementor/widgets/blog-feed-categories.php:334
+msgid "Category Color"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-categories.php:349
+#: inc/elementor/widgets/blog-feed-tags.php:347
+msgid "Separator Color"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-comments.php:48
+msgid "Post comments"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-comments.php:109
+msgid "Comments Off text"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-comments.php:287
+#: inc/options/posts-pages.php:212
+msgid "Comments"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-comments.php:312
+#: inc/elementor/widgets/blog-feed-comments.php:332
+msgid "Comment Color"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-content.php:102
+#: inc/elementor/widgets/blog-feed-content.php:110
+#: inc/elementor/widgets/posts-carousel.php:130
+#: inc/options/colors-typography-archive.php:70
+#: inc/options/colors-typography-archive.php:126
+#: inc/options/colors-typography-archive.php:179
+#: inc/options/posts-pages.php:237
+msgid "Excerpt"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-content.php:103
+msgid "Full Content"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-content.php:158
+#: inc/elementor/widgets/blog-feed-read-more.php:168
+#: inc/elementor/widgets/blog-feed-title.php:117
+msgid "Justified"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-content.php:199
+#: inc/elementor/widgets/blog-feed-content.php:219
+msgid "Links Color"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-date.php:46
+msgid "Post date"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-date.php:99
+#: inc/elementor/widgets/blog-feed-date.php:100
+msgid "Published"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-date.php:223
+msgid "Date Color"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-image.php:49
+#: inc/elementor/widgets/blog-feed-image.php:108
+#: inc/elementor/widgets/blog-feed-image.php:168
+msgid "Image"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-image.php:115
+msgid "Choose Dummy Image"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-image.php:117
+msgid "Dummy image is for development purposes. It will be replaced with the correct post thumbnail."
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-image.php:127
+msgid "Image Size"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-image.php:176
+msgid "Width"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-image.php:211
+msgid "Max Width"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-image.php:254
+#: inc/elementor/widgets/blog-feed-image.php:288
+msgid "Opacity"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-image.php:314
+msgid "Transition Duration"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-image.php:331
+msgid "Hover Animation"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-read-more.php:48
+msgid "Read More Button"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-read-more.php:94
+msgid "Extra Small"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-read-more.php:95
+msgid "Small"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-read-more.php:96
+msgid "Medium"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-read-more.php:97
+msgid "Large"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-read-more.php:98
+msgid "Extra Large"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-read-more.php:114
+#: inc/elementor/widgets/blog-feed-read-more.php:249
+msgid "Button"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-read-more.php:121
+msgid "Type"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-read-more.php:125
+#: inc/options/posts-pages.php:48 inc/options/posts-pages.php:255
+msgid "Default"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-read-more.php:126
+msgid "Info"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-read-more.php:127
+msgid "Success"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-read-more.php:128
+msgid "Warning"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-read-more.php:129
+msgid "Danger"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-read-more.php:143
+#: inc/elementor/widgets/blog-feed-read-more.php:144
+msgid "Click here"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-read-more.php:180
+msgid "Size"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-read-more.php:237
+#: inc/elementor/widgets/posts-carousel.php:148
+msgid "View"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-read-more.php:286
+#: inc/elementor/widgets/blog-feed-read-more.php:317 inc/widgets/social.php:424
+msgid "Background Color"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-read-more.php:328 inc/widgets/social.php:444
+msgid "Border Color"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-tags.php:48
+msgid "Post tags"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-tags.php:110
+#: inc/elementor/widgets/blog-feed-tags.php:111
+msgid "Tags:"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-tags.php:287
+msgid "Tags"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-tags.php:312
+#: inc/elementor/widgets/blog-feed-tags.php:332
+msgid "Tag Color"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-title.php:46
+#: inc/elementor/widgets/posts-carousel.php:160
+msgid "Post title"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-title.php:93 inc/options/posts-pages.php:86
+#: inc/widgets/about-me.php:276 inc/widgets/social.php:372
+msgid "Title"
+msgstr ""
+
+#: inc/elementor/widgets/blog-feed-title.php:148
+#: inc/elementor/widgets/blog-feed-title.php:168
+msgid "Title Color"
+msgstr ""
+
+#: inc/elementor/widgets/posts-carousel.php:46
+msgid "Posts"
+msgstr ""
+
+#: inc/elementor/widgets/posts-carousel.php:90
+msgid "Blog"
+msgstr ""
+
+#: inc/elementor/widgets/posts-carousel.php:97
+msgid "Number of posts"
+msgstr ""
+
+#: inc/elementor/widgets/posts-carousel.php:105
+msgid "Posts per row"
+msgstr ""
+
+#: inc/elementor/widgets/posts-carousel.php:109
+msgid "1"
+msgstr ""
+
+#: inc/elementor/widgets/posts-carousel.php:110
+msgid "2"
+msgstr ""
+
+#: inc/elementor/widgets/posts-carousel.php:111
+msgid "3"
+msgstr ""
+
+#: inc/elementor/widgets/posts-carousel.php:112
+msgid "4"
+msgstr ""
+
+#: inc/elementor/widgets/posts-carousel.php:113
+msgid "6"
+msgstr ""
+
+#: inc/elementor/widgets/posts-carousel.php:166
+#: inc/elementor/widgets/posts-carousel.php:192 inc/options/top-bar.php:129
+#: inc/widgets/about-me.php:300 inc/widgets/social.php:434
+msgid "Color"
+msgstr ""
+
+#: inc/elementor/widgets/posts-carousel.php:186
+msgid "Post content"
+msgstr ""
+
+#: inc/elementor/widgets/posts-carousel.php:212
+msgid "Post spacing"
+msgstr ""
+
+#: inc/elementor/widgets/posts-carousel.php:218
+msgid "Spacing"
+msgstr ""
+
+#: inc/elementor/widgets/woo-header-cart.php:19
+msgid "WooCommerce Header Cart"
+msgstr ""
+
+#: inc/elementor/widgets/woo-header-cart.php:34
+msgid "Colors"
+msgstr ""
+
+#: inc/elementor/widgets/woo-header-cart.php:41
+msgid "Icon Color"
+msgstr ""
+
+#: inc/elementor/widgets/woo-header-cart.php:51
+msgid "Counter background"
+msgstr ""
+
+#: inc/elementor/widgets/woo-header-cart.php:61
+msgid "Counter number color"
+msgstr ""
+
+#: inc/elementor/widgets/writing-effect-headline.php:17
+msgid "Writing Effect Headline"
+msgstr ""
+
+#: inc/elementor/widgets/writing-effect-headline.php:33
+#: inc/elementor/widgets/writing-effect-headline.php:178
+msgid "Headline"
+msgstr ""
+
+#: inc/elementor/widgets/writing-effect-headline.php:40
+msgid "Before Text"
+msgstr ""
+
+#: inc/elementor/widgets/writing-effect-headline.php:43
+#: inc/elementor/widgets/writing-effect-headline.php:67
+msgid "Enter your headline"
+msgstr ""
+
+#: inc/elementor/widgets/writing-effect-headline.php:52
+#: inc/elementor/widgets/writing-effect-headline.php:206
+msgid "Written Text"
+msgstr ""
+
+#: inc/elementor/widgets/writing-effect-headline.php:54
+#: inc/elementor/widgets/writing-effect-headline.php:55
+msgid "Enter each word in a separate line"
+msgstr ""
+
+#: inc/elementor/widgets/writing-effect-headline.php:65
+msgid "After Text"
+msgstr ""
+
+#: inc/elementor/widgets/writing-effect-headline.php:76
+msgid "Writing speed"
+msgstr ""
+
+#: inc/elementor/widgets/writing-effect-headline.php:78
+#: inc/elementor/widgets/writing-effect-headline.php:98
+msgid "Lower is faster"
+msgstr ""
+
+#: inc/elementor/widgets/writing-effect-headline.php:96
+msgid "Delay"
+msgstr ""
+
+#: inc/elementor/widgets/writing-effect-headline.php:116
+msgid "Loop writing effect"
+msgstr ""
+
+#: inc/elementor/widgets/writing-effect-headline.php:120
+msgid "On"
+msgstr ""
+
+#: inc/notify.php:19
+#, php-format
+msgid "You need to have <a href=\"%s\" target=\"_blank\">Futurio</a> or Futurio Storefront theme in order to use Futurio Extra plugin."
+msgstr ""
+
+#: inc/notify.php:90
+msgid "Leave A Review?"
+msgstr ""
+
+#: inc/notify.php:91
+msgid "We hope you've enjoyed using Futurio theme! Would you consider leaving us a review on WordPress.org?"
+msgstr ""
+
+#: inc/notify.php:96
+msgid "Sure! I'd love to!"
+msgstr ""
+
+#: inc/notify.php:102
+msgid "I've already left a review"
+msgstr ""
+
+#: inc/notify.php:108
+msgid "Maybe Later"
+msgstr ""
+
+#: inc/notify.php:114
+msgid "I need help!"
+msgstr ""
+
+#: inc/notify.php:120
+msgid "Never show again"
+msgstr ""
+
+#: inc/notify.php:200
+msgid "Go PRO for More Features"
+msgstr ""
+
+#: inc/notify.php:201
+#, php-format
+msgid "Get the  <a href=\"https://futuriowp.com/futurio-pro/\" target=\"_blank\">Pro version</a> for more stunning elements, demos and customization options. Now with 25% discount for lifetime plan."
+msgstr ""
+
+#: inc/notify.php:206
+msgid "Show me more"
+msgstr ""
+
+#: inc/notify.php:212
+msgid "Hide this message"
+msgstr ""
+
+#: inc/notify.php:246
+#, php-format
+msgid "%1$s requires an %2$supdate%3$s. Please update the plugin to ensure full compatibility with the %4$s theme and WordPress."
+msgstr ""
+
+#: inc/notify.php:247
+msgid "Update"
+msgstr ""
+
+#: inc/options/colors-typography-archive.php:9
+#: inc/options/colors-typography-footer-credits.php:10
+#: inc/options/colors-typography-footer-widget.php:10
+#: inc/options/colors-typography-posts-pages.php:9
+#: inc/options/colors-typography-presets.php:10
+#: inc/options/colors-typography-top-bar.php:10
+#: inc/options/colors-typography-widget.php:10
+#: inc/options/colors-typography.php:9
+msgid "Colors and Typography"
+msgstr ""
+
+#: inc/options/colors-typography-archive.php:13
+msgid "Blog & Archive"
+msgstr ""
+
+#: inc/options/colors-typography-archive.php:37
+#: inc/options/colors-typography-archive.php:99
+#: inc/options/colors-typography-archive.php:152
+#: inc/options/colors-typography-posts-pages.php:37
+#: inc/options/colors-typography-posts-pages.php:99
+#: inc/options/colors-typography-posts-pages.php:152
+#: inc/options/colors-typography.php:69 inc/options/woocommerce.php:248
+#: inc/options/woocommerce.php:307 inc/options/woocommerce.php:359
+#: inc/options/woocommerce.php:581 inc/options/woocommerce.php:639
+#: inc/options/woocommerce.php:691
+msgid "Titles"
+msgstr ""
+
+#: inc/options/colors-typography-footer-widget.php:14
+msgid "Footer widgets"
+msgstr ""
+
+#: inc/options/colors-typography-footer-widget.php:38
+#: inc/options/colors-typography-footer-widget.php:106
+#: inc/options/colors-typography-footer-widget.php:172
+#: inc/options/colors-typography-widget.php:76
+#: inc/options/colors-typography-widget.php:132
+#: inc/options/colors-typography-widget.php:184
+msgid "Font"
+msgstr ""
+
+#: inc/options/colors-typography-footer-widget.php:67
+#: inc/options/colors-typography-footer-widget.php:133
+#: inc/options/colors-typography-footer-widget.php:199
+#: inc/options/colors-typography-widget.php:37
+#: inc/options/colors-typography-widget.php:106
+#: inc/options/colors-typography-widget.php:158
+msgid "Widget Titles"
+msgstr ""
+
+#: inc/options/colors-typography-header-title.php:9
+msgid "Header & Title"
+msgstr ""
+
+#: inc/options/colors-typography-header-title.php:33
+#: inc/options/colors-typography-header-title.php:93
+#: inc/options/colors-typography-header-title.php:149
+msgid "Site title font"
+msgstr ""
+
+#: inc/options/colors-typography-header-title.php:64
+#: inc/options/colors-typography-header-title.php:121
+#: inc/options/colors-typography-header-title.php:177
+msgid "Site description font"
+msgstr ""
+
+#: inc/options/colors-typography-main-menu.php:8
+msgid "Main Menu"
+msgstr ""
+
+#: inc/options/colors-typography-main-menu.php:31
+#: inc/options/colors-typography-main-menu.php:71
+#: inc/options/colors-typography-main-menu.php:97
+msgid "Menu Font"
+msgstr ""
+
+#: inc/options/colors-typography-posts-pages.php:13
+msgid "Posts & Pages"
+msgstr ""
+
+#: inc/options/colors-typography-top-bar.php:14
+msgid "Top bar"
+msgstr ""
+
+#: inc/options/colors-typography-top-bar.php:37
+#: inc/options/colors-typography-top-bar.php:66
+#: inc/options/colors-typography-top-bar.php:93
+msgid "Top bar font"
+msgstr ""
+
+#: inc/options/colors-typography-widget.php:14 inc/options/sidebar.php:8
+msgid "Sidebar"
+msgstr ""
+
+#: inc/options/colors-typography.php:36 inc/options/colors-typography.php:94
+#: inc/options/colors-typography.php:120
+msgid "Site font"
+msgstr ""
+
+#: inc/options/custom-codes.php:12
+msgid "Custom Codes"
+msgstr ""
+
+#: inc/options/custom-codes.php:19
+msgid "Code to be added to the HEAD"
+msgstr ""
+
+#: inc/options/custom-codes.php:20
+msgid "Suitable for Google Analytics code"
+msgstr ""
+
+#: inc/options/custom-codes.php:41
+msgid "Code to be added to the footer"
+msgstr ""
+
+#: inc/options/demo-import.php:8
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/options/documentation.php:8
+msgid "Documentation"
+msgstr ""
+
+#: inc/options/extra.php:66
+msgid "Futurio PRO Available!"
+msgstr ""
+
+#: inc/options/extra.php:78
+msgid "Custom Colors and All Google Fonts Available in Futurio PRO!"
+msgstr ""
+
+#: inc/options/extra.php:79 inc/options/extra.php:91 inc/options/extra.php:102
+msgid "Learn More"
+msgstr ""
+
+#: inc/options/extra.php:90
+msgid "More Options Available in Futurio PRO!"
+msgstr ""
+
+#: inc/options/extra.php:101
+msgid "More WooCommerce Options Available in Futurio PRO!"
+msgstr ""
+
+#: inc/options/footer-credits.php:7
+msgid "Copyright"
+msgstr ""
+
+#: inc/options/footer-credits.php:15
+msgid "HTML is allowed.<br/> Use <code>%current_year%</code> to update year automatically.<br/> Use <code>%copy%</code> to include copyright symbol."
+msgstr ""
+
+#: inc/options/footer-credits.php:32
+msgid "Elementor custom footer"
+msgstr ""
+
+#: inc/options/footer-credits.php:33
+msgid "Note: This will override the footer credits option defined above."
+msgstr ""
+
+#: inc/options/footer-credits.php:36 inc/options/global.php:18
+#: inc/options/global.php:51 inc/options/header.php:34
+msgid "Select an option"
+msgstr ""
+
+#: inc/options/global.php:8
+msgid "Global Options"
+msgstr ""
+
+#: inc/options/global.php:15
+msgid "Blog & Archive template"
+msgstr ""
+
+#: inc/options/global.php:19
+msgid "Note: This will override blog and archive template layout."
+msgstr ""
+
+#: inc/options/global.php:32
+msgid "Blog & Archive template columns"
+msgstr ""
+
+#: inc/options/global.php:48
+msgid "Elementor 404 page"
+msgstr ""
+
+#: inc/options/global.php:52
+msgid "Note: This will override your 404 page."
+msgstr ""
+
+#: inc/options/global.php:66
+msgid "Footer widgets columns"
+msgstr ""
+
+#: inc/options/global.php:90
+msgid "Website preloader"
+msgstr ""
+
+#: inc/options/global.php:99
+msgid "Theme options stylesheet loading"
+msgstr ""
+
+#: inc/options/global.php:100
+msgid "Dynamic may slow down your website loading on some servers, but it is better for website score rating. Use Inline, if you have some dificulities with the website speed or some stylesheet errors."
+msgstr ""
+
+#: inc/options/global.php:105
+msgid "Dynamic to file"
+msgstr ""
+
+#: inc/options/global.php:106
+msgid "Inline"
+msgstr ""
+
+#: inc/options/header.php:17
+msgid "Site Background"
+msgstr ""
+
+#: inc/options/header.php:23 inc/options/header.php:49
+msgid "Header"
+msgstr ""
+
+#: inc/options/header.php:31
+msgid "Elementor custom header"
+msgstr ""
+
+#: inc/options/header.php:35
+msgid "Note: This will override all options defined below and disable the header and main menu."
+msgstr ""
+
+#: inc/options/header.php:54
+msgid "Separate"
+msgstr ""
+
+#: inc/options/header.php:55
+msgid "Inside menu bar"
+msgstr ""
+
+#: inc/options/header.php:81 inc/options/header.php:119
+#: inc/options/header.php:159
+msgid "Header spacing"
+msgstr ""
+
+#: inc/options/header.php:222 inc/options/menu-icons.php:30
+msgid "Static header"
+msgstr ""
+
+#: inc/options/header.php:223 inc/options/menu-icons.php:31
+msgid "Floating header"
+msgstr ""
+
+#: inc/options/header.php:235 inc/options/header.php:347
+msgid "Title and logo height"
+msgstr ""
+
+#: inc/options/header.php:274 inc/options/header.php:386
+msgid "Logo spacing"
+msgstr ""
+
+#: inc/options/header.php:311 inc/options/header.php:423
+msgid "Site Title and Tagline spacing"
+msgstr ""
+
+#: inc/options/menu-icons.php:9
+msgid "Header & Menu"
+msgstr ""
+
+#: inc/options/menu-icons.php:13
+msgid "Main menu"
+msgstr ""
+
+#: inc/options/menu-icons.php:38 inc/options/menu-icons.php:66
+msgid "Menu items spacing"
+msgstr ""
+
+#: inc/options/menu-icons.php:94
+msgid "Main menu layout"
+msgstr ""
+
+#: inc/options/menu-icons.php:99 inc/options/top-bar.php:46
+msgid "Boxed"
+msgstr ""
+
+#: inc/options/menu-icons.php:100 inc/options/posts-pages.php:37
+#: inc/options/posts-pages.php:92 inc/options/top-bar.php:47
+msgid "Full Width"
+msgstr ""
+
+#: inc/options/menu-icons.php:107
+msgid "Menu align"
+msgstr ""
+
+#: inc/options/menu-icons.php:121
+msgid "Search"
+msgstr ""
+
+#: inc/options/menu-icons.php:122
+msgid "Off canvas widget area"
+msgstr ""
+
+#: inc/options/menu-icons.php:123
+msgid "Custom button"
+msgstr ""
+
+#: inc/options/menu-icons.php:127 inc/options/storefront.php:177
+msgid "WooCommerce Cart"
+msgstr ""
+
+#: inc/options/menu-icons.php:128 inc/options/storefront.php:178
+msgid "WooCommerce Account"
+msgstr ""
+
+#: inc/options/menu-icons.php:138
+msgid "Menu Icons"
+msgstr ""
+
+#: inc/options/menu-icons.php:148
+msgid "Button text"
+msgstr ""
+
+#: inc/options/menu-icons.php:162
+msgid "Button link"
+msgstr ""
+
+#: inc/options/menu-icons.php:177
+msgid "Button color"
+msgstr ""
+
+#: inc/options/menu-icons.php:183 inc/options/menu-icons.php:225
+msgid "Background"
+msgstr ""
+
+#: inc/options/menu-icons.php:184 inc/options/menu-icons.php:226
+msgid "Border"
+msgstr ""
+
+#: inc/options/menu-icons.php:219
+msgid "Button color on hover"
+msgstr ""
+
+#: inc/options/menu-icons.php:260 inc/options/woocommerce.php:424
+#: inc/options/woocommerce.php:803
+msgid "Button border radius"
+msgstr ""
+
+#: inc/options/posts-pages.php:9
+msgid "Posts and pages"
+msgstr ""
+
+#: inc/options/posts-pages.php:13
+msgid "Blog posts archive"
+msgstr ""
+
+#: inc/options/posts-pages.php:19
+msgid "Single post and page"
+msgstr ""
+
+#: inc/options/posts-pages.php:31
+msgid "Featured image"
+msgstr ""
+
+#: inc/options/posts-pages.php:36 inc/options/posts-pages.php:91
+msgid "Inside post"
+msgstr ""
+
+#: inc/options/posts-pages.php:43 inc/options/posts-pages.php:250
+msgid "Image dimensions"
+msgstr ""
+
+#: inc/options/posts-pages.php:49 inc/options/posts-pages.php:256
+msgid "Custom"
+msgstr ""
+
+#: inc/options/posts-pages.php:62 inc/options/posts-pages.php:262
+#, php-format
+msgid "If you set new dimensions, you need to run %s plugin. It will regenerate all of your thumbnails to the new image sizes."
+msgstr ""
+
+#: inc/options/posts-pages.php:98
+msgid "Content spacing"
+msgstr ""
+
+#: inc/options/posts-pages.php:124
+msgid "Image area height"
+msgstr ""
+
+#: inc/options/posts-pages.php:164
+msgid "Image overlay"
+msgstr ""
+
+#: inc/options/posts-pages.php:200
+msgid "Date"
+msgstr ""
+
+#: inc/options/posts-pages.php:205 inc/options/posts-pages.php:217
+#: inc/options/posts-pages.php:230
+msgid "Visible"
+msgstr ""
+
+#: inc/options/posts-pages.php:206 inc/options/posts-pages.php:231
+msgid "Hidden"
+msgstr ""
+
+#: inc/options/posts-pages.php:218
+msgid "Hidden Off"
+msgstr ""
+
+#: inc/options/posts-pages.php:219
+msgid "Hidden all"
+msgstr ""
+
+#: inc/options/posts-pages.php:225
+msgid "Author"
+msgstr ""
+
+#: inc/options/posts-pages.php:281 inc/options/woocommerce.php:466
+msgid "Image border radius"
+msgstr ""
+
+#: inc/options/posts-pages.php:302
+msgid "Image shadow"
+msgstr ""
+
+#: inc/options/sidebar.php:15
+msgid "Sidebar position"
+msgstr ""
+
+#: inc/options/sidebar.php:28
+msgid "Sidebar size"
+msgstr ""
+
+#: inc/options/sidebar.php:33
+msgid "Narrow"
+msgstr ""
+
+#: inc/options/sidebar.php:34
+msgid "Wide"
+msgstr ""
+
+#: inc/options/storefront.php:7
+msgid "Total field and cart text"
+msgstr ""
+
+#: inc/options/storefront.php:23
+msgid "Cart text"
+msgstr ""
+
+#: inc/options/storefront.php:25
+msgid "Cart"
+msgstr ""
+
+#: inc/options/storefront.php:51
+msgid "Account text"
+msgstr ""
+
+#: inc/options/storefront.php:66
+msgid "Account heading"
+msgstr ""
+
+#: inc/options/storefront.php:68
+msgid "Welcome"
+msgstr ""
+
+#: inc/options/storefront.php:93
+msgid "Account sub-heading"
+msgstr ""
+
+#: inc/options/storefront.php:95
+msgid "Login/Register"
+msgstr ""
+
+#: inc/options/storefront.php:121
+msgid "Search field"
+msgstr ""
+
+#: inc/options/storefront.php:172
+msgid "Heading & Logo"
+msgstr ""
+
+#: inc/options/storefront.php:173
+msgid "Search & Header Widget Area"
+msgstr ""
+
+#: inc/options/storefront.php:188
+msgid "Header Layout"
+msgstr ""
+
+#: inc/options/storefront.php:189
+msgid "Custom color customizations are available in <a href=\"https://futuriowp.com/futurio-pro/#pro-features\" target=\"_blank\" rel=\"noopener\">Futurio PRO</a>"
+msgstr ""
+
+#: inc/options/storefront.php:206
+msgid "Search & Widget area width"
+msgstr ""
+
+#: inc/options/top-bar.php:33
+msgid "Top Bar"
+msgstr ""
+
+#: inc/options/top-bar.php:41
+msgid "Top bar layout"
+msgstr ""
+
+#: inc/options/top-bar.php:53
+msgid "Top bar fields"
+msgstr ""
+
+#: inc/options/top-bar.php:57 inc/options/top-bar.php:66
+msgid "Textarea #1"
+msgstr ""
+
+#: inc/options/top-bar.php:58 inc/options/top-bar.php:88
+msgid "Textarea #2"
+msgstr ""
+
+#: inc/options/top-bar.php:59 inc/options/top-bar.php:111
+msgid "Icons"
+msgstr ""
+
+#: inc/options/top-bar.php:118
+msgid "Select icon"
+msgstr ""
+
+#: inc/options/top-bar.php:124
+msgid "URL"
+msgstr ""
+
+#: inc/options/top-bar.php:135
+msgid "icon"
+msgstr ""
+
+#: inc/options/woocommerce.php:101
+msgid "Prev"
+msgstr ""
+
+#: inc/options/woocommerce.php:108
+msgid "Next"
+msgstr ""
+
+#: inc/options/woocommerce.php:120
+msgid "General Settings"
+msgstr ""
+
+#: inc/options/woocommerce.php:125
+msgid "Archive/Shop"
+msgstr ""
+
+#: inc/options/woocommerce.php:130
+msgid "Product Page"
+msgstr ""
+
+#: inc/options/woocommerce.php:135
+msgid "Buttons"
+msgstr ""
+
+#: inc/options/woocommerce.php:147
+msgid "Gallery zoom"
+msgstr ""
+
+#: inc/options/woocommerce.php:155
+msgid "Gallery lightbox"
+msgstr ""
+
+#: inc/options/woocommerce.php:163
+msgid "Gallery slider"
+msgstr ""
+
+#: inc/options/woocommerce.php:171
+msgid "Number of items"
+msgstr ""
+
+#: inc/options/woocommerce.php:172
+msgid "Change number of products displayed per page in archive(shop) page."
+msgstr ""
+
+#: inc/options/woocommerce.php:185
+msgid "Items per row"
+msgstr ""
+
+#: inc/options/woocommerce.php:186
+msgid "Change the number of products columns per row in archive(shop) page."
+msgstr ""
+
+#: inc/options/woocommerce.php:199
+msgid "Open header cart automatically"
+msgstr ""
+
+#: inc/options/woocommerce.php:206
+msgid "Header cart icon"
+msgstr ""
+
+#: inc/options/woocommerce.php:218
+msgid "Header my account icon"
+msgstr ""
+
+#: inc/options/woocommerce.php:277 inc/options/woocommerce.php:333
+#: inc/options/woocommerce.php:386 inc/options/woocommerce.php:610
+#: inc/options/woocommerce.php:665 inc/options/woocommerce.php:717
+msgid "Price"
+msgstr ""
+
+#: inc/options/woocommerce.php:445
+msgid "Product border radius"
+msgstr ""
+
+#: inc/options/woocommerce.php:487
+msgid "Product padding"
+msgstr ""
+
+#: inc/options/woocommerce.php:523
+msgid "Product shadow"
+msgstr ""
+
+#: inc/options/woocommerce.php:544
+msgid "Product shadow on hover"
+msgstr ""
+
+#: inc/options/woocommerce.php:744
+msgid "Image area width (in %)"
+msgstr ""
+
+#: inc/options/woocommerce.php:765
+msgid "Product Navigation"
+msgstr ""
+
+#: inc/options/woocommerce.php:773
+msgid "Tab titles align"
+msgstr ""
+
+#: inc/options/woocommerce.php:792
+msgid "Related products"
+msgstr ""
+
+#: inc/widgets/about-me.php:59
+msgid "Futurio: About Me"
+msgstr ""
+
+#: inc/widgets/about-me.php:62
+msgid "Adds a about me widget."
+msgstr ""
+
+#: inc/widgets/about-me.php:266
+msgid "About Me"
+msgstr ""
+
+#: inc/widgets/about-me.php:268
+msgid "John Doe"
+msgstr ""
+
+#: inc/widgets/about-me.php:281
+msgid "Image URL"
+msgstr ""
+
+#: inc/widgets/about-me.php:283
+msgid "Upload Image"
+msgstr ""
+
+#: inc/widgets/about-me.php:287
+msgid "Name:"
+msgstr ""
+
+#: inc/widgets/about-me.php:292
+msgid "Description:"
+msgstr ""
+
+#: inc/widgets/about-me.php:297
+msgid "Social Style:"
+msgstr ""
+
+#: inc/widgets/about-me.php:301 inc/widgets/social.php:356
+#: inc/widgets/social.php:379
+msgid "Light"
+msgstr ""
+
+#: inc/widgets/about-me.php:302 inc/widgets/social.php:380
+msgid "Dark"
+msgstr ""
+
+#: inc/widgets/about-me.php:307
+msgid "Social Link Target:"
+msgstr ""
+
+#: inc/widgets/about-me.php:310 inc/widgets/social.php:400
+msgid "Blank"
+msgstr ""
+
+#: inc/widgets/about-me.php:311 inc/widgets/social.php:401
+msgid "Self"
+msgstr ""
+
+#: inc/widgets/about-me.php:318 inc/widgets/social.php:456
+msgid "Social Links"
+msgstr ""
+
+#: inc/widgets/popular-posts.php:18
+msgid "Displays your popular posts with thumbnail and date. Recommended use: in sidebar or footer"
+msgstr ""
+
+#: inc/widgets/popular-posts.php:21
+msgid "Futurio: Popular posts"
+msgstr ""
+
+#: inc/widgets/popular-posts.php:103
+msgid "Popular posts"
+msgstr ""
+
+#: inc/widgets/popular-posts.php:108 inc/widgets/recent-posts.php:106
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/popular-posts.php:114 inc/widgets/recent-posts.php:112
+msgid "Number of posts:"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:18
+msgid "Displays your recent posts with thumbnail and date. Recommended use: in sidebar or footer"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:21
+msgid "Futurio: Recent posts"
+msgstr ""
+
+#: inc/widgets/recent-posts.php:101
+msgid "Recent posts"
+msgstr ""
+
+#: inc/widgets/social.php:110
+msgid "Futurio: Social Icons"
+msgstr ""
+
+#: inc/widgets/social.php:113
+msgid "Display your social media icons."
+msgstr ""
+
+#: inc/widgets/social.php:355
+msgid "Follow Us"
+msgstr ""
+
+#: inc/widgets/social.php:357 inc/widgets/social.php:391
+msgid "Rotate"
+msgstr ""
+
+#: inc/widgets/social.php:377
+msgid "Style:"
+msgstr ""
+
+#: inc/widgets/social.php:381
+msgid "Colored"
+msgstr ""
+
+#: inc/widgets/social.php:382
+msgid "Simple"
+msgstr ""
+
+#: inc/widgets/social.php:387
+msgid "Transition:"
+msgstr ""
+
+#: inc/widgets/social.php:389
+msgid "None"
+msgstr ""
+
+#: inc/widgets/social.php:390
+msgid "Float"
+msgstr ""
+
+#: inc/widgets/social.php:392
+msgid "Zoom Out"
+msgstr ""
+
+#: inc/widgets/social.php:397
+msgid "Link Target"
+msgstr ""
+
+#: inc/widgets/social.php:406
+msgid "Dimensions"
+msgstr ""
+
+#: inc/widgets/social.php:408 inc/widgets/social.php:414
+#: inc/widgets/social.php:420
+msgid "Example:"
+msgstr ""
+
+#: inc/widgets/social.php:412
+msgid "Font Size"
+msgstr ""
+
+#: inc/widgets/social.php:429
+msgid "Background Color Hover"
+msgstr ""
+
+#: inc/widgets/social.php:439
+msgid "Color Hover"
+msgstr ""
+
+#: inc/widgets/social.php:449
+msgid "Border Color Hover"
+msgstr ""
